@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274979394170",
+    "project_id": "notesma",
+    "storage_bucket": "notesma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274979394170:android:4a3c5d9064f4bf415c61c3",
+        "android_client_info": {
+          "package_name": "com.example.notesma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrYbgJ8sRmf4nbLDLJ6eurW6EpOHtRW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
